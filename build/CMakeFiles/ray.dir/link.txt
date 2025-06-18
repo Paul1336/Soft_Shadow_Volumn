@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -Wall -rdynamic CMakeFiles/ray.dir/main.cpp.o -o ray 

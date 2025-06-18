@@ -1,0 +1,3 @@
+/mnt/c/Users/project/hw1-ppm/build/CMakeFiles/ray.dir
+/mnt/c/Users/project/hw1-ppm/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/project/hw1-ppm/build/CMakeFiles/rebuild_cache.dir
